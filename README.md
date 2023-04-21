@@ -2,7 +2,7 @@
 - 👀 I’m a passionate software developer from India.
 - 🌱 I’m currently enrolled in BE CSE course
 - 💞️ I’m looking to learn more on Coding
-- 🥅 2022 Goals: Work on more and more Projects
+- 🥅 2023 Goals: Work on more and more Projects
 - 📫 How to reach me: @dhvaniish on IG
 
 <h3 align="left">Connect with me:</h3>
