@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dhvanish23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhvanish23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhvanish-samanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhvanish-samanta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dhvanishsamanta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhvanish-samanta" height="30" width="40" /></a>
 <a href="https://instagram.com/dhvaniish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhvaniish" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC4nF6XxSXbX2CPorWIAFAkQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="notdee" height="30" width="40" /></a>
 </p>
