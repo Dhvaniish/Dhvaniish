@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dhvaniish 🇮🇳
-- 👀 I’m a passionate software developer from India.
-- 🌱 I’m currently enrolled in BE CSE course
-- 💞️ I’m looking to learn more on Coding
+- 👀 I’m actively looking for internship opportunities.
+- 🌱 I’m currently pursuing a BE in CSE with a specialization in Big Data and Analytics.
+- 💞️ I’m a huge F1 fan.
 - 🥅 2023 Goals: Work on more and more Projects
 - 📫 How to reach me: @dhvaniish on IG
 
