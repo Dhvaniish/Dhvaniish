@@ -17,7 +17,7 @@
 -->
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=dhvaniish&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff -->
 
-<img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvaniish&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
+<img height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvaniish&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
