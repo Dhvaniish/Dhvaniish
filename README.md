@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Dhvaniish 🇮🇳
-- 👀 I’m actively looking for internship opportunities.
+- 👋 Hi, I’m Dhvanish Samanta
+- 👀 I’m actively looking for internship opportunities in Web Development and Data Analyst Role.
 - 🌱 I’m currently pursuing a BE in CSE with a specialization in Big Data and Analytics.
 - 💞️ I’m a huge F1 fan.
-- 🥅 2023 Goals: Work on more and more Projects
+- 🥅 2023 Goals: Upskill myself.
 - 📫 How to reach me: @dhvaniish on IG
 
 <h3 align="left">Connect with me:</h3>
