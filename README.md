@@ -19,6 +19,7 @@
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=dhvaniish&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff -->
 
 <img height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvaniish&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
+[![D's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Dhvaniish&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <p align="left">
   <!-- C -->
@@ -56,4 +57,3 @@
   
    </p>
 
-[![D's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Dhvaniish&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
