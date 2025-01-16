@@ -13,17 +13,6 @@
 
 <!-- [![D's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dhvaniish&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
 
-<h3 align="left">Languages and Tools:</h3>
-<!--
-<img height="150px"  src="https://github-readme-stats.vercel.app/api?username=dhvaniish&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> 
--->
-<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=dhvaniish&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff -->
-
-<div style="display:flex">
-<img height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvaniish&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
-<!-- [![D's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dhvaniish&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
-</div>
-
 # 💻 My Development Environment & Skills
 
 ## IDE
@@ -63,6 +52,19 @@
 ### Frameworks
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)]()
+
+
+<h3 align="left">Languages and Tools:</h3>
+<!--
+<img height="150px"  src="https://github-readme-stats.vercel.app/api?username=dhvaniish&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,fd1d1d,e1306c,c13584,833ab4&title_color=ffffff"/> 
+-->
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=dhvaniish&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff -->
+
+<div style="display:flex">
+<img height="200px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhvaniish&layout=compact&langs_count=6&text_color=ffffff&icon_color=ffffff&bg_color=0,833ab4,5851db,405de6&title_color=ffffff"/>
+<!-- [![D's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dhvaniish&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
+</div>
+
 
 
 
